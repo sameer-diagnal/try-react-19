@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sameer-diagnal/try-react-19/static/css/main.f855e6bc.css",
-    "main.js": "/sameer-diagnal/try-react-19/static/js/main.b783b6ac.js",
-    "static/js/453.cfbb42aa.chunk.js": "/sameer-diagnal/try-react-19/static/js/453.cfbb42aa.chunk.js",
-    "static/media/logo.svg": "/sameer-diagnal/try-react-19/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/sameer-diagnal/try-react-19/index.html",
-    "main.f855e6bc.css.map": "/sameer-diagnal/try-react-19/static/css/main.f855e6bc.css.map",
-    "main.b783b6ac.js.map": "/sameer-diagnal/try-react-19/static/js/main.b783b6ac.js.map",
-    "453.cfbb42aa.chunk.js.map": "/sameer-diagnal/try-react-19/static/js/453.cfbb42aa.chunk.js.map"
+    "main.css": "/try-react-19/static/css/main.f855e6bc.css",
+    "main.js": "/try-react-19/static/js/main.a5e0c37c.js",
+    "static/js/453.cfbb42aa.chunk.js": "/try-react-19/static/js/453.cfbb42aa.chunk.js",
+    "static/media/logo.svg": "/try-react-19/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/try-react-19/index.html",
+    "main.f855e6bc.css.map": "/try-react-19/static/css/main.f855e6bc.css.map",
+    "main.a5e0c37c.js.map": "/try-react-19/static/js/main.a5e0c37c.js.map",
+    "453.cfbb42aa.chunk.js.map": "/try-react-19/static/js/453.cfbb42aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.b783b6ac.js"
+    "static/js/main.a5e0c37c.js"
   ]
 }
